@@ -1,3 +1,3 @@
-import {hello as h} from 'hello-world'
+import {hello} from 'hello-world'
 
 console.log(h());
